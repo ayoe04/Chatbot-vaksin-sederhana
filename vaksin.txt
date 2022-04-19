@@ -1,0 +1,233 @@
+Vaksin itu adalah suatu antigen atau benda asing yang dimasukkan ke dalam tubuh untuk menghasilkan reaksi kekebalan tubuh terhadap penyakit tertentu.
+
+
+Vaksin biasanya berisi mikroorganisme, misalnya virus atau bakteri, yang sudah mati atau masih hidup tetapi dilemahkan.
+
+
+Vaksin COVID-19 adalah jenis vaksin yang dikembangkan untuk meningkatkan imun tubuh terhadap virus SARS-CoV-2 yang menyebabkan penyakit COVID-19. 
+
+
+Semua orang direkomendasikan untuk menerima vaksin COVID-19. 
+
+
+Semua vaksin COVID-19 telah melalui uji klinis yang melibatkan jutaan orang dari berbagai usia, ras, dan etnis untuk memastikan keamanan penggunaan dari vaksin COVID-19.
+
+
+Efek samping vaksin COVID-19 yang paling sering terjadi bersifat ringan seperti nyeri dan/atau kemerahan di area suntikan, lemah badan, nyeri kepala, nyeri otot, demam ringan. 
+
+
+Vaksinasi adalah pemberian vaksin (antigen) yang dapat merangsang pembentukan imunitas (antibodi) sistem imun di dalam tubuh. 
+
+
+Vaksinasi sebagai upaya pencegahan primer yang sangat handal mencegah penyakit yang dapat dicegah dengan vaksinasi. Dengan prosedur vaksinasi yang benar diharapkan akan di peroleh kekebalan yang optimal, penyuntikan yang aman dan Kejadian Ikutan Pasca Imunisasi(KIPI) yang minimal.
+
+
+Tujuan vaksinasi Covid-19 untuk melindungi dan memperkuat sistem kesehatan secara menyeluruh, juga menjaga produktivitas dan mengurangi dampak sosial dan ekonomi masyarakat.
+
+
+Berikut ini adalah beberapa kelompok yang termasuk prioritas vaksin Covid-19 adalah Tenaga kesehatan yang memiliki risiko tinggi untuk terinfeksi dan menularkan Covid-19, Orang dengan pekerjaan yang memiliki risiko tinggi tertular dan menularkan Covid-19 karena tidak dapat melakukan jaga jarak secara efektif, seperti anggota TNI/Polri, aparat hukum, dan petugas pelayanan publik lainnya, Orang yang memiliki penyakit penyerta dengan risiko kematian tinggi bila terkena Covid-19.
+
+
+Manfaat vaksin adalah merangsang system kekebalan tubuh, mengurangi resiko penularan, mengurangi dampak berat dari virus, Mencapai Herd Immunity. 
+
+
+Jenis vaksin yaitu Pfizer-BioNTech, Moderna, AstraZeneca, Janssen, Sputnik V, Sinovac, Novavax, CanSino.
+
+
+Pfizer-BioNTech adalah pertama di dunia yang diberikan untuk masyarakat umum. 
+
+
+Pfizer-BioNTech merupakan hasil kolaborasi antara perusahaan bioteknologi asal Jerman, BioNTech, dengan perusahaan farmasi asal Amerika, Pfizer.  
+
+
+Pfizer-BioNTech merupakan tipe messenger RNA (mRNA) atau vaksin asam nuklea. 
+
+
+Pfizer-BioNTech menggunakan materi genetik, yaitu protein spike dari Covid-19, yang dimanfaatkan untuk memberikan instruksi kepada sel tubuh kita agar membentuk antibodi.
+
+
+Pfizer-BioNTech memiliki efikasi sekitar 95% dan telah mengantongi izin penggunaan darurat dari World Health Organization (WHO). Pendistribusian dan penggunaan vaksin ini pertama kali dilakukan di Inggris, kemudian disusul Australia, Amerika Serikat, Israel, Arab Saudi, Korea Selatan, Filipina, Singapura, dan Malaysia.
+
+
+Tipe Pfizer-BioNTech adalah mRNA.
+
+
+Dosis Pfizer-BioNTech adalah 2 kali.
+
+
+Efikasi Pfizer-BioNTech adalah 95%.
+
+
+Moderna diproduksi perusahaan bioteknologi asal Amerika Serikat, Moderna. 
+
+
+Sama halnya dengan Pfizer-BioNTech, Moderna merupakan tipe messenger RNA (mRNA) yang menggunakan materi genetik untuk memberikan stimulus kepada sel tubuh kita agar membentuk antibodi.
+
+
+Efikasi dari Moderna sekitar 95% dan telah mendapatkan izin penggunaan darurat dari United State Food and Drug Administration (FDA). 
+
+
+Tipe Moderna adalah mRNA.
+
+
+Dosis Moderna adalah 2 kali.
+
+
+Efikasi Moderna adalah 95%.
+
+
+AstraZeneca atau Oxford-AstraZeneca diproduksi perusahaan biofarmasi asal Inggris bersama Universitas Oxford. 
+
+
+AstraZeneca merupakan tipe viral vector yang memanfaatkan adenovirus simpanse (yang sudah dilemahkan sehingga tidak berbahaya), untuk mengantarkan protein spike dari Covid-19 ke dalam sel tubuh kita, sehingga memicu pembentukan antibodi.
+
+
+Efikasi dari AstraZeneca berada di angka 70% secara keseluruhan. 
+
+
+Setelah mengantongi izin penggunaan darurat dari World Health Organization (WHO), vaksin AstraZeneca mulai didistribusikan dan digunakan di berbagai negara. 
+
+
+Penggunaan AstraZeneca paling banyak di benua Eropa, Afrika, serta Asia seperti Vietnam, India, Malaysia, Filipina, Taiwan, Korea Selatan, dan Indonesia.
+
+
+Tipe AstraZeneca adalah Viral vector.
+
+
+Dosis AstraZeneca adalah 2 kali.
+
+
+Efikasi AstraZeneca adalah 70%.
+
+
+Janssen diciptakan untuk membantu memerangi Covid-19. 
+
+
+Perbedaan mencolok dari Janssen adalah dosis pemakaiannya yang hanya satu kali, berbeda dengan ketiga vaksin sebelumnya yang memerlukan dosis dua kali pakai dengan rentang waktu sekitar 28 hari.
+
+
+Hampir mirip dengan AstraZeneca, Janssen merupakan tipe vaksin viral vector yang memanfaatkan adenovirus nonaktif untuk mengantarkan protein spike dari Covid-19 ke dalam sel tubuh kita, agar memicu pembentukan antibodi.
+
+
+Janssen memiliki efikasi sebesar 66%. 
+
+
+Tipe Janssen adalah Viral vector.
+
+
+Dosis Janssen adalah 1 kali.
+
+
+Efikasi Janssen adalah 66% hingga 100%.
+
+
+Sputnik V adalah asal Rusia yang dikembangkan Gamaleya Research Institute of Epidemiology and Microbiology. 
+
+
+Sputnik V merupakan tipe viral vector yang memanfaatkan adenovirus nonaktif untuk mengantarkan protein spike dari Covid-19 ke dalam sel tubuh kita, sehingga memicu pembentukan antibodi.
+
+
+Efikasi Sputnik V dilaporkan mencapai sekitar 96,1%. 
+
+
+Tipe Sputnik V adalah Viral vector.
+
+
+Dosis Sputnik V adalah 2 kali.
+
+
+Efikasi Sputnik V adalah 96,1%.
+
+
+Sinovac merupakan yang diproduksi perusahaan biofarmasi Cina, Sinovac BioTech. 
+
+
+Sinovac merupakan tipe whole virus yang memanfaatkan virus SARS-CoV-2 nonaktif. 
+
+
+SARS-CoV-2sudah tidak dapat menginfeksi tubuh, namun dapat memicu pembentukan imun dalam tubuh kita.
+
+
+Sinovac memiliki berbagai angka efikasi dari beberapa negara yang telah melakukan uji coba. 
+
+
+Dalam uji coba di Brazil, Sinovac memiliki efikasi sekitar 50,65%. 
+
+
+di Indonesia, efikasi Sinovac sekitar 65,3%.
+
+
+Setelah mendapatkan izin penggunaan darurat dari Badan Pengawas Obat dan Makanan (BPOM), Sinovac mulai digunakan untuk program vaksinasi di Indonesia. 
+
+
+Selain Indonesia, negara-negara lain yang sudah memesan vaksin Sinovac di antaranya Brasil, Chili, Turki, Singapura, Filipina, dan Malaysia.
+
+
+Tipe Sinovac adalah Whole virus (Virus SARS-CoV-2 nonaktif).
+
+
+Dosis Sinovac adalah 2 kali.
+
+
+Efikasi Sinovac adalah 50,65% hingga 91,25%.
+
+
+Novavax merupakan yang dikembangkan perusahaan biofarmasi Novavax. 
+
+
+Novavax merupakan tipe berbasis protein, berisi spike protein Covid-19 khusus yang dibuat menggunakan teknologi milik perusahaan itu sendiri, sehingga dapat merangsang pembentukan antibodi di tubuh kita. 
+
+
+Efikasi Novavax mencapai 89,3% pada percobaan ketiga di Inggris. 
+
+
+Saat ini, Novavax masih menunggu izin penggunaan darurat dari United State Food and Drug Administration (FDA), sembari menggencarkan produksi untuk persiapan distribusi ke berbagai negara termasuk Indonesia.
+
+
+Tipe Novavax adalah Protein-based.
+
+
+Dosis Novavax adalah 2 kali.
+
+
+Efikasi Novavax adalah 89,3%.
+
+
+CanSino adalah hasil kolaborasi antara perusahaan vaksin Cina, CanSino Biologics, bersama ilmuwan militer Cina. 
+
+
+CanSino yang bernama dagang Convidecia, merupakan vaksin yang hanya memerlukan satu dosis penggunaan dengan tipe viral vector. 
+
+
+CanSino memanfaatkan adenovirus nonaktif untuk mengantarkan protein spike dari Covid-19 ke dalam sel tubuh kita, sehingga memicu pembentukan antibodi.
+
+
+Efikasi dari CanSino mencapai 65,7% untuk mencegah gejala Covid-19, dan 90,98% dalam mencegah penyakit berat akibat Covid-19. 
+
+
+Tipe CanSino adalah Viral vector.
+
+
+Dosis CanSino adalah 1 kali.
+
+
+Efikasi CanSino adalah 65,7% hingga 90,98%.
+
+
+Indonesia akan memulai vaksin COVID-19 Pada 2 Desember 2020, NHS menyetujui penggunaan vaksin Covid-19 produksi Pfizer-BioNTech di Inggris. 
+
+
+Lalu, pada 11 Desember 2020, FDA menyetujui penggunaan darurat vaksin Covid-19 produksi Pfizer tersebut di AS. 
+
+
+Sementara itu, pemerintah Indonesia telah memesan sekitar 143 juta dosis vaksin Sinovac dengan total 1,2 juta dosis vaksin masuk ke Tanah Air pekan lalu. 
+
+
+Sinovac kini disimpan di gudang PT Bio Farma di Bandung dan menunggu BPOM untuk memberikan lampu hijau untuk penggunaan darurat vaksin sebelum dapat memulai vaksinasi. 
+
+
+
+
+
+
+
