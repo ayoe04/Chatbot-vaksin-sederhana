@@ -1,1 +1,2 @@
-# Chatbot-vaksin-sederhana
+# Mini Project NLP
+Chatbot Vaksin Covid-19
